@@ -12,7 +12,7 @@ export default function Hero() {
       {/* Main Heading */}
       <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-slate-900 tracking-tight leading-tight sm:leading-none">
         Your Resume, Matched to Your{' '}
-        <span className="text-blue-600 underline decoration-blue-200 decoration-wavy decoration-2 underline-offset-8">
+        <span className="text-blue-600">
           Dream Job.
         </span>
       </h1>
